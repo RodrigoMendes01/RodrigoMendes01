@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript, NodeJS, HTML and CSS
 - 👩‍💻 I’m interested in FrontEnd Developing and BackEnd
-- 📫 How to reach me: send me a text in my Twitter : @R0drigo_Mendes
+- 📫 How to reach me: send me a text
 - 😁 Pronouns: he/him
 
 ##

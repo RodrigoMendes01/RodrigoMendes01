@@ -10,8 +10,8 @@
 ##
 <p align="center">
 <a href="https://github.com/RodrigoMendes01">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoMendes01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoMendes01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoMendes01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoMendes01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

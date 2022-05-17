@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there I'm Rodrigo 👋
 
-<!--
-**RodrigoMendes01/RodrigoMendes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JavaScript, NodeJS, HTML and CSS
+- 👩‍💻 I’m interested in FrontEnd Developing and BackEnd
+- 📫 How to reach me: send me a text in my Twitter : @R0drigo_Mendes
+- 😁 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<p align="center">
+<a href="https://github.com/RodrigoMendes01">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoMendes01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoMendes01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+<div>
+<a href="https://instagram.com/rodrigom_0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:rodrigo.rm123.rm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>  
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
